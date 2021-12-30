@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    margin: top;
+    position: fixed;
+    height: 70px;
+    width: 100%;
+    color: white;
+    background-color:whitesmoke;
+}
+.nicepage{
+    height: 40px;
+    width: 120px;
+    padding: 15px;
+}
+img{
+    width: 1835px;
+    height: 684px;
+    overflow: hidden;
+}
+.footer{
+    background-color: black;
+    height:80px;
+    width: 100%;
+    color: white;
+    /* text-align: center; */
+    margin-top: 10%;
+}
+.f{
+    /* align-self: flex-end; */
+    /* color: turquoise; */
+    /* margin-top: 15%; */
+    text-indent: 3ch;
+    text-align: center;
+    padding: 30px;
+
+
+}
+.maunt{
+    height: 570px;
+    background-color: aqua;
+    width:100%;
+    /* overflow: hidden; */
+}
+.sub_div1{
+    background-color:#6da2d9 ;
+    height: 340px;
+    width: 360px;
+    text-align: center;
+    /* text-align: 10%; */
+    color: white;
+}
+.sub_div2{
+    background-color:#fb3700;
+    height: 340px;
+    width: 360px;
+    margin-left: 2%;
+    text-align: center;
+    color: white;
+}
+.sub_div3{
+    background-color:red;
+    height: 340px;
+    width: 360px;
+    margin-left: 2%;
+    text-align: center;
+    /* padding: 50px; */
+    /* margin-top: 5%; */
+    color: white;
+
+}
+.main_div{
+    margin-left:19%;
+    display: flex; 
+    text-align: center;
+    /* padding: 50px; */
+    /* margin: auto; */
+}
+svg{
+    height:153px;
+    width: 96px;
+    color: white;
+    /* background-color: red; */
+}
+.u-svg-content{
+    /* background-color: white; */
+    color: white;
+}
+.u-palette-1-base, .u-body.u-palette-1-base{
+    color:white;
+}
+.u-container-style.u-palette-1-base::before{
+    color:white;
+}
+.u-table-alt-palette-1-base tr:nth-child(2n){
+    color:white;
+
+}
